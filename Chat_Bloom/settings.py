@@ -69,6 +69,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = "Chat_Bloom.wsgi.application"
+ASGI_APPLICATION = "Chat_Bloom.asgi.application"
 
 
 # Database
